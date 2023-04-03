@@ -14,14 +14,14 @@ Unordered List:
 - Second item
 
 Code:
-`
+```C
 #include <stdio.h>
 
 int main(){
   printf("hello, world!\n");
   return 0;
   }
-`
+```
 Horizontal Rule:
 ---
 Link:[git](https://www.github.com)
